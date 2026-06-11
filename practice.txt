@@ -1,1 +1,2 @@
-Git の練習中です。
+Plain text
+Pull Requestの練習
